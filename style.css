@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  height: 100vh; /* 100 viewport height */
+}
+
+.container {
+  width: 50%;
+  height: 100vh;
+  margin: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.card {
+  border: 1px solid #000;
+}
+
+.card {
+    margin-bottom: 20px;
+}
